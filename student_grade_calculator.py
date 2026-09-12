@@ -17,3 +17,5 @@ else:
 print("Name:", name)
 print("Score:", score)
 print("Grade:", grade)
+git checkout -b feature-improve-calculator
+git push -u origin feature-improve-calculator
